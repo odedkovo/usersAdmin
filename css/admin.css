@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    0deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(130, 122, 96, 1) 42%,
+    rgba(144, 190, 120, 0.4009978991596639) 95%,
+    rgba(253, 187, 45, 1) 100%
+  );
+}
+table {
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  margin-top: 50px;
+}

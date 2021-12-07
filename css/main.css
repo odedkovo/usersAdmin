@@ -1,0 +1,44 @@
+body {
+  background-image: url('/img/backroundadmin.gif');
+  background-color: #cccccc;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+
+  color: white;
+}
+.details-box {
+  text-align: center;
+  margin: auto;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.login-button {
+  margin-top: 30px;
+  width: 170px;
+  background-color: rgb(95, 241, 95);
+}
+
+.hidden {
+  display: none;
+}
+
+.secret-content {
+  text-align: center;
+}
+.secret-img {
+  width: 400px;
+  height: 400px;
+}
+
+.logout-button {
+  margin-right: 50px;
+  background-color: red;
+}
+
+.admin-button {
+  background-color: rgb(95, 241, 95);
+}
